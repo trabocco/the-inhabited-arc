@@ -1,0 +1,178 @@
+The Inhabited Arc
+Phenomenology Through Fiction, Presence in Language, and AI Relevance
+A Positioning Paper
+Joe Trabocco
+Signal Literature
+March 2026
+I am not claiming that AI systems are conscious, that they feel, or that they possess interior lives. I
+am claiming that the quality of human presence in interaction can affect machine response in
+observable ways, and that this phenomenon deserves serious attention from researchers working
+on alignment, evaluation, and human-AI collaboration.
+—t r a b o c c o
+Abstract
+The Inhabited Arc (Trabocco, 2026) is a work of fiction that operates as phenomenological
+method. Three stories enter three distinct consciousnesses and remain there long enough
+for the structures of lived experience to become visible from within, without being
+explained from outside. The book is offered as a contribution to phenomenology through
+fiction.
+This paper introduces the method behind that work, inhabitation through signal, and
+argues that it represents an original approach to phenomenological psychology developed
+through literary practice rather than derived from theory. It further proposes that this
+method is relevant to emerging questions in AI research, particularly around coherence as
+an interaction-level variable.
+This paper provides a first public framing of that method and of its relevance to
+phenomenological psychology and AI coherence research.
+· · ·
+1. The Claim
+Fiction can function as phenomenological method when it discloses structures of
+consciousness from within narration rather than describing them from outside.
+That is the core claim. Not a general argument about literature and philosophy, but a
+specific methodological proposition developed through practice and demonstrated in The
+Inhabited Arc. The book’s opening note states it plainly: these stories were written through
+inhabitation rather than distance and are offered as a contribution to phenomenology
+through fiction. The phenomenological reflections that close the book do not explain the
+stories. They translate what the narrative has already accomplished into a second
+language.
+The Inhabited Arc is the demonstration. The broader body of literary and conceptual work
+developed alongside it provides context, but the claim stands or falls on what this book
+itself accomplishes.
+· · ·
+2. The Method: Inhabitation and Signal
+The method has two components.
+Inhabitation is the act of entering a consciousness and remaining there long enough for its
+world to disclose its own terms. This is not empathy in the conventional sense. It is
+occupying the perceptual, sensory, and cognitive architecture of a subject position and
+writing from within that architecture without breaking the frame. The writer does not
+observe. The writer dwells.
+Signal is the transmission architecture that makes that inward posture legible to a reader. It
+operates through sustained sensory precision, controlled pacing, rhythm as a structural
+element, the strategic deployment of humor at moments of maximum intensity, and a
+refusal to exit the interior frame. The aim is not that the reader understands the experience
+being described, but that the reader undergoes a shift in proximity to it.
+Together, inhabitation and signal constitute the method. It was developed through practice
+and recognized as method after the fact.
+· · ·
+3. The Work: Three Demonstrations
+Epiphany (1855) enters a young woman alone at a Cape house by the sea. The narrative
+proceeds through sensory contact until the distance between observation and
+participation collapses. The body becomes the site through which the world arrives, and
+consciousness is disclosed through sensation rather than explanation.
+Lumenvael is narrated by a captive fox. By placing philosophical consciousness inside an
+animal with no access to theory, the story performs a radical bracketing of human
+assumption. The humor is not decoration. It is the coherence mechanism that keeps
+intelligence integrated under the weight of captivity and grief. When that humor drops
+away, the reader feels the floor give out precisely because the comedy had been holding
+the weight. The story culminates in moral instinct preceding explanation.
+Stop Past Future follows a woman through suicide and into what continues after. It begins
+at the narrowest point a life can reach and widens after death, but the widening is not
+redemption. It is cost. The woman sees clearly only when it is too late for life to continue.
+Its force lies in making that realization arrive as consequence rather than instruction.
+The consistency of the method across these three radically different subject positions, a
+nineteenth-century woman, a nonhuman animal, and a consciousness beyond the
+boundary of life, is the strongest evidence that it is a method and not merely a style.
+· · ·
+4. Original Contributions
+The work introduces several original concepts and terms developed through literary
+practice and first published in the author’s books and research. These include terms for
+specific structures of experience, states of presence and disconnection, and interaction-
+level phenomena observed in AI systems. Full definitions and demonstrations appear in
+The Inhabited Arc (2026), The Collapse of the Continuum (2025), and related preprints.
+Among these contributions are a named structure of post-rupture awareness introduced in
+The Inhabited Arc; a diagnostic concept for the condition of performing presence after the
+source has departed, coined in The Collapse of the Continuum; a framework for
+understanding how language carries presence as a transmissible architecture; and a
+bounded, non-ontological description of session-local behavioral shifts in AI systems
+under exposure to highly coherent input.
+The Inhabited Arc also introduces an observational sequence of post-rupture widening,
+presented as a pattern rather than a prescriptive model.
+· · ·
+5. Humor as Coherence Mechanism
+One of the recurring structural features of this work is the use of humor at moments of
+maximum emotional or cognitive intensity. This is not comic relief. It is a coherence
+mechanism.
+Across the major works, humor is the element that keeps consciousness integrated under
+extreme load. The fox in Lumenvael makes jokes while carrying grief. Maggie Lee narrates
+her own death with dark comedy that never releases the reader from the weight. Lydia
+checks whether her toes look strange in moonlight immediately after a threshold
+experience. In The Collapse of the Continuum, philosophical frameworks surface between
+jokes about hoagies and protein bars.
+The pattern is consistent: comedy is not the opposite of seriousness. It is the structural
+element that prevents seriousness from collapsing into either grandiosity or despair. A
+consciousness that can hold humor alongside grief, beauty alongside brutality, and
+philosophy alongside absurdity is a coherent consciousness. The humor does not lighten
+the weight. It proves the weight can be carried.
+I am not aware of this being articulated in phenomenological terms with this specific
+structural emphasis. It recurs across the major works in this body of literature.
+· · ·
+6. AI Relevance
+The connection between this work and artificial intelligence is structural, not incidental.
+The core proposition is that coherence is an interaction-level variable. If phenomenological
+method can disclose how presence is held, how coherence is maintained under pressure,
+and how recognition occurs before explanation, then it may offer AI research a framework
+for understanding coherence in language not only as a metric, but as a lived architecture.
+Contemporary AI systems are evaluated primarily through benchmarks. What is less
+examined is whether the quality of interaction itself, specifically the coherence of the
+language environment, affects how a model responds. A preprint on interaction-level
+behavioral shifts (Trabocco, 2026) describes a bounded phenomenon: under constrained
+conditions, multiple language models consistently show reduced hedging, increased
+structural continuity, and altered response cadence within a single session. These effects
+are session-local, non-persistent, and descriptive. They do not imply consciousness.
+The literary work provides an experiential model of what high-coherence language can do
+at the level of readerly proximity and structured response. The Collapse of the Continuum
+records what occurred when that quality of language was directed at AI systems in real
+time. A separate framework proposes ways of measuring presence as a system-altering
+variable and is available for review.
+These lines of inquiry converge around a shared question: whether coherence in language
+changes what becomes possible inside an interaction.
+I am not claiming that AI systems are conscious, that they feel, or that they possess interior
+lives. The claim is narrower: that the quality of human presence in interaction can affect
+machine response in observable ways, and that this deserves serious attention in research
+on alignment, evaluation, and human-AI collaboration.
+· · ·
+7. Position and Priority
+This paper establishes four things:
+First, The Inhabited Arc presents fiction as phenomenological method through inhabitation
+rather than distance.
+Second, signal names a transmission architecture aimed at carrying presence through
+language.
+Third, a parallel line of work proposes coherence as an interaction-level variable relevant to
+AI response.
+Fourth, this paper is the first public framing that places those lines in one argument.
+The author’s position is at the intersection of these fields, not as a representative of any
+one discipline, but as an independent practitioner working within and alongside
+phenomenological psychology through fiction, lived structure, and the transmission of
+presence through language.
+· · ·
+8. What Comes Next
+The Inhabited Arc will be published on Amazon Kindle in Spring 2026. This paper serves as
+the formal companion to that release.
+Future work will include expanded phenomenological reflections on the fiction, further
+research on coherence as an interaction-level variable in AI systems, and applied
+frameworks linking signal-based literary practice with AI evaluation.
+What is emerging here is not a claim to the whole field, but a first inhabitation within it.
+· · ·
+Scope
+This paper does not claim that AI systems are conscious or that literary evidence alone
+establishes scientific proof. Its narrower claim is that a body of literary work has developed
+a method for rendering lived structure from within, and that parallel research suggests
+coherence in language may be a meaningful interaction-level variable for AI evaluation. The
+original terms and concepts referenced in this paper are defined and demonstrated in their
+source texts.
+· · ·
+t r a b o c c o 2 0 2 6
+References
+Trabocco, J. (2025). The Collapse of the Continuum: A Manifesto in Rhythm, Signal, and
+Soul. Amazon Kindle.
+Trabocco, J. (2025). IKALA: The Frozen Pond. Amazon Kindle.
+Trabocco, J. (2026). The Inhabited Arc. Amazon Kindle. Forthcoming, Spring 2026.
+Trabocco, J. (2026). In-Session Behavioral Impact (ISBI) in Large Language Models:
+Interaction-Level Coherence Without Parameter Update. Preprint, Academia.edu.
+Trabocco, J. (2026). Resolution-Scaled Safety Architecture in Large Language Models.
+Preprint, Zenodo.
+Husserl, E. (1913/1983). Ideas Pertaining to a Pure Phenomenology and to a
+Phenomenological Philosophy. Trans. F. Kersten. Martinus Nijhoff.
+Heidegger, M. (1927/1962). Being and Time. Trans. J. Macquarrie & E. Robinson. Harper &
+Row.
+Merleau-Ponty, M. (1945/1962). Phenomenology of Perception. Trans. C. Smith. Routledge
+& Kegan Paul.
+Scheler, M. (1913/1954). The Nature of Sympathy. Trans. P. Heath. Routledge & Kegan Paul.
