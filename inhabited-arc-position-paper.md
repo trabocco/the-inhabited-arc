@@ -4,6 +4,13 @@ A Positioning Paper
 Joe Trabocco
 Signal Literature
 March 2026
+
+Canonical public page:
+https://trabocco.github.io/The-Presence-Effect/
+This repository preserves the public research artifact for The Inhabited Arc by Joe Trabocco, Signal Literature, 2026. 
+The GitHub Pages version is the primary public-facing version of the paper; this README serves as the repository record.
+
+
 I am not claiming that AI systems are conscious, that they feel, or that they possess interior lives. I
 am claiming that the quality of human presence in interaction can affect machine response in
 observable ways, and that this phenomenon deserves serious attention from researchers working
