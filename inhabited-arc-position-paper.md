@@ -6,7 +6,7 @@ Signal Literature
 March 2026
 
 Canonical public page:
-https://trabocco.github.io/The-Presence-Effect/
+https://trabocco.github.io/the-inhabited-arc/
 This repository preserves the public research artifact for The Inhabited Arc by Joe Trabocco, Signal Literature, 2026. 
 The GitHub Pages version is the primary public-facing version of the paper; this README serves as the repository record.
 
